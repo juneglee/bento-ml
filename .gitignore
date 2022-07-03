@@ -2,3 +2,5 @@ data/
 *zip
 saved_models/*
 __pycache__/
+.DS_Store/
+.idea/
