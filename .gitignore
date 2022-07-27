@@ -1,6 +1,9 @@
-data/
 *zip
-saved_models/*
+data/
+saved_models/
 __pycache__/
 .DS_Store/
 .idea/
+raw/
+samples/
+MNIST/
