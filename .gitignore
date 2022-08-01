@@ -1,4 +1,5 @@
 *zip
+*.pt
 data/
 saved_models/
 __pycache__/
